@@ -18,3 +18,5 @@ This is for stash 2.\
 
 For GitHub push 
 }
+
+This is for pull..
